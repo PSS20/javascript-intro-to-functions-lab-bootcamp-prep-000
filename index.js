@@ -18,3 +18,9 @@ function longWhisper(text1){
   console.log(`${text1}`)
   
 }
+
+function sayHiToGrandma(text){
+  if(text.toLowerCase === text){
+    return "I can't hear you!"
+  }
+}
