@@ -6,8 +6,8 @@ function whisper(text){
   return text.toLowerCase()
 }
 
-function longShout(text){
-  text = text.toUpperCase()
-  console.log(`${text}`)
-  return text
+function longShout(text1){
+  text1 = text1.toUpperCase()
+  console.log(`${text1}`)
+  
 }
