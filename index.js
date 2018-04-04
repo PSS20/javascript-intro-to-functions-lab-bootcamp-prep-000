@@ -23,7 +23,7 @@ function sayHiToGrandma(text){
   if(text.toLowerCase() === text) {
     return "I can't hear you!"
   }
-  elseif(text.toUpperCase() === text) {
+  else if(text.toUpperCase() === text) {
     return "YES INDEED"
   }
   if(text === 
