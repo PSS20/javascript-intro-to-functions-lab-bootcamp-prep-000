@@ -13,8 +13,8 @@ function longShout(text1){
 }
 
 
-function longShout(text1){
-  text1 = text1.toUpperCase()
+function longWhisper(text1){
+  text1 = text1.toLowerCase()
   console.log(`${text1}`)
   
 }
