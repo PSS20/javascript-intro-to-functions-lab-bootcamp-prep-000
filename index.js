@@ -6,14 +6,14 @@ function whisper(text){
   return text.toLowerCase()
 }
 
-function longShout(text1){
+function logShout(text1){
   text1 = text1.toUpperCase()
   console.log(`${text1}`)
   
 }
 
 
-function longWhisper(text1){
+function logWhisper(text1){
   text1 = text1.toLowerCase()
   console.log(`${text1}`)
   
