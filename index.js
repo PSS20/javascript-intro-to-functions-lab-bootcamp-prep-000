@@ -9,4 +9,5 @@ function whisper(text){
 function longShout(text){
   text = text.toUpperCase()
   console.log(`${text}`)
+  return text
 }
