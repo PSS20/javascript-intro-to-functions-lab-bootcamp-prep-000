@@ -11,3 +11,10 @@ function longShout(text1){
   console.log(`${text1}`)
   
 }
+
+
+function longShout(text1){
+  text1 = text1.toUpperCase()
+  console.log(`${text1}`)
+  
+}
